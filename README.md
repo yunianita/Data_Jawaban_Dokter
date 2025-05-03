@@ -1,2 +1,3 @@
 # Data_Jawaban_Dokter
-Data jawaban dokter disimpan disini dalam bentuk excel. Data ini berisi per kalimat satu field.
+Data jawaban dokter disimpan disini dalam bentuk excel. Data ini berisi per kalimat satu field. Data ini menggunakan Bahasa Indonesia. Data ini dilengkapi dengan label F1, F2, F3, F4, F5, dan F6. Label ini diberikan oleh annotator medis yaitu dokter. (The doctor's answer data is stored here in excel format. This data contains one field per sentence. This data uses Indonesian. This data is equipped with labels F1, F2, F3, F4, F5, and F6. These labels are given by medical annotators, namely doctors.)
+F1: fostering the relationship, F2: gathering information, F3: providing information, F4: decision making, F5: responding to emotions, F6: enabling disease and treatment-related behavior.   
